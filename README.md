@@ -36,14 +36,12 @@ The Insurance Competitor Analysis Tool is a RAG-powered application that enables
 # Common Issues and Solutions
 
 ## PDF Files Not Found
-
-      Verify PDF files are in the 10KFilings directory
-      Check file names match exactly
-      Ensure proper file permissions
+- Verify PDF files are in the 10KFilings directory
+- Check file names match exactly
+- Ensure proper file permissions
 
 ## API Key Error
-
-      Verify API key is correctly set
+- Verify API key is correctly set
 
 ## Package Installation Errors
 
