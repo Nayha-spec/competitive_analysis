@@ -33,4 +33,19 @@ The Insurance Competitor Analysis Tool is a RAG-powered application that enables
   - Open InsuranceAnalyzer.ipynb
   - Run all cells (Cell → Run All)
 
+# Common Issues and Solutions
 
+## PDF Files Not Found
+
+      Verify PDF files are in the 10KFilings directory
+      Check file names match exactly
+      Ensure proper file permissions
+
+## API Key Error
+
+      Verify API key is correctly set
+
+## Package Installation Errors
+
+      Try running pip install commands individually
+      Update pip: pip install --upgrade pip
