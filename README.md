@@ -30,7 +30,7 @@ The Insurance Competitor Analysis Tool is a RAG-powered application that enables
 ## 4. Running the Notebook
   - Navigate to your project folder
   - Start Jupyter
-  - Open InsuranceAnalyzer.ipynb
+  - Open Insurance10KAnalyserPrototype.ipynb
   - Run all cells (Cell → Run All)
 
 # Common Issues and Solutions
