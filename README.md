@@ -1,6 +1,8 @@
 # Insurer Competitive Analysis
 The Insurance Competitor Analysis Tool is a RAG-powered application that enables insurance analysts to quickly analyze and compare competitor financial statements (10K filings).
 
+<img width="1230" alt="Screenshot 2025-01-31 at 1 46 26 PM" src="https://github.com/user-attachments/assets/ad3ba7ef-8cf1-40be-8d9a-b59a77abbc11" />
+
 ## Files Required
 1. Insurance10KAnalyserPrototype.ipynb - The Jupyter notebook containing the analysis code
 2. PDF files (to be placed in a 10KFilings directory):
