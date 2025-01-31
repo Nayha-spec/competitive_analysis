@@ -25,7 +25,8 @@ The Insurance Competitor Analysis Tool is a RAG-powered application that enables
   - Install Jupyter Notebook
 
 ## 3. OpenAI API Key
-  - In Insurance10KAnalyserPrototype.ipynb, replace "your-api-key-here" with your actual API key
+  - In Insurance10KAnalyserPrototype.ipynb, replace "your-api-key-here" with your actual API key OR;
+  - Replace "your-api-key-here" with the temporary key shared with you
 
 ## 4. Running the Notebook
   - Navigate to your project folder
