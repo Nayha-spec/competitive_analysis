@@ -2,7 +2,7 @@
 The Insurance Competitor Analysis Tool is a RAG-powered application that enables insurance analysts to quickly analyze and compare competitor financial statements (10K filings).
 
 ## Files Required
-1. InsuranceAnalyzer.ipynb - The Jupyter notebook containing the analysis code
+1. Insurance10KAnalyserPrototype.ipynb - The Jupyter notebook containing the analysis code
 2. PDF files (to be placed in a 10KFilings directory):
       - travelers_10k_2024.pdf
       - progressive_10k_2024.pdf
@@ -13,7 +13,7 @@ The Insurance Competitor Analysis Tool is a RAG-powered application that enables
 
 ## 1. Create Directory Structure
     your-project-folder/
-    ├── InsuranceAnalyzer.ipynb
+    ├── Insurance10KAnalyserPrototype.ipynb
     └── 10KFilings/
         ├── travelers_10k_2024.pdf
         ├── progressive_10k_2024.pdf
@@ -25,7 +25,7 @@ The Insurance Competitor Analysis Tool is a RAG-powered application that enables
   - Install Jupyter Notebook
 
 ## 3. OpenAI API Key
-  - In the notebook, replace "your-api-key-here" with your actual API key
+  - In Insurance10KAnalyserPrototype.ipynb, replace "your-api-key-here" with your actual API key
 
 ## 4. Running the Notebook
   - Navigate to your project folder
