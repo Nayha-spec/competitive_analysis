@@ -49,3 +49,23 @@ The Insurance Competitor Analysis Tool is a RAG-powered application that enables
 
       Try running pip install commands individually
       Update pip: pip install --upgrade pip
+
+
+# Usage Tips
+
+## First Run
+- Initial setup may take a few minutes
+- Wait for all packages to install
+- Allow document processing to complete
+
+
+## Asking Questions
+- Start with example questions
+- Be specific in company names
+- Complex questions may take longer to process
+
+
+## Resource Management
+- Close other resource-intensive applications
+- Restart kernel if memory usage is high
+- Clear output cells periodically
